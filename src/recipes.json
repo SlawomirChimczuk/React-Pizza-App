@@ -1,0 +1,322 @@
+{
+  "recipes": [
+    {
+      "results":[
+        {
+            "id": 456329,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "Pizza Margerita"
+        },
+        {
+            "id": 480975,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "Meat Pizza"
+        },
+        {
+            "id": 363136,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "Hawaiian Pizza"
+        },
+        {
+            "id": 816300,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "Platin Pizza"
+        },
+        {
+            "id": 765769,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "Vegetarian Pizza "
+        },
+        {
+            "id": 455698,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "Pepperoni Pizza"
+        },
+        {
+            "id": 522598,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "Salami Pizza"
+        },
+        {
+            "id": 7561893,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "4 Cheese Pizza"
+        },
+        {
+            "id": 954523,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "Pear Gorgonzola Pizza"
+        },
+        {
+            "id": 156098,
+            "image": "image",
+            "imageType": "jpg",
+            "title": "Ham Pizza"
+        }
+      ]
+    }
+  ],
+  "recipesdetails":[
+        {
+            "id": 456329,
+            "readyInMinutes": 45,
+            "vegetarian": true,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"},
+                {"id": 56103, "ingredient": "pumpkin"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "Pizza Margerita Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 15, 
+            "title": "Pizza Margerita - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 480975,
+            "readyInMinutes": 35, 
+            "vegetarian": false,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"},
+                {"id": 56101, "ingredient": "becon"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "Meat Pizza Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 55, 
+            "title": "Meat Pizza - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 363136,
+            "readyInMinutes": 10,
+            "vegetarian": false,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "Hawaiian Pizza Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 25, 
+            "title": "Hawaiian Pizza - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 816300,
+            "readyInMinutes": 20,
+            "vegetarian": true,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "Platin Pizza Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 55, 
+            "title": "Platin Pizza - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 765769,
+            "readyInMinutes": 25,
+            "vegetarian": true,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "Vegetarian Pizza Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 12, 
+            "title": "Vegetarian Pizza  - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 455698,
+            "readyInMinutes": 35,
+            "vegetarian": true,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "Pepperoni Pizza Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 16, 
+            "title": "Pepperoni Pizza - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 522598,
+            "readyInMinutes": 15,
+            "vegetarian": false,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "Salami Pizza Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 23, 
+            "title": "Salami Pizza - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 7561893,
+            "readyInMinutes": 25,
+            "vegetarian": true,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "4 Cheese Pizza Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 25, 
+            "title": "4 Cheese Pizza - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 954523,
+            "readyInMinutes": 35,
+            "vegetarian": true,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "Paneer & Fig Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 33, 
+            "title": "Paneer & Fig - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 156098,
+            "readyInMinutes": 25,
+            "vegetarian": false,
+            "extendedIngredients": 
+                [
+                {"id": 56112, "ingredient": "flour"},
+                {"id": 56111, "ingredient": "yest"},
+                {"id": 56119, "ingredient": "water"},
+                {"id": 56110, "ingredient": "olive"},
+                {"id": 56108, "ingredient": "chees"},
+                {"id": 56107, "ingredient": "tomato sauce"}
+            ],
+            "analyzeInstructions" : {
+                "steps": [
+                    {"number": 1, "step": "Ham Pizza Lorem ipsum dolor sit amet"},
+                    {"number": 2, "step": "Consectetur adipiscing elit"},
+                    {"number": 3, "step": "Sed do eiusmod tempor incididunt ut labore"},
+                    {"number": 4, "step": "Duis aute irure dolor in reprehenderit in voluptate velit"},
+                    {"number": 5, "step": "Incididunt ut labore et dolore magna aliqua"}
+                ]
+            },
+            "pricePerServing": 21, 
+            "title": "Ham Pizza - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+    ]
+}

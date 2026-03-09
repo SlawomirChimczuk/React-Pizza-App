@@ -1,0 +1,40 @@
+.recipieCard{
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgb(0, 0, 0, 0.3);
+    border-radius: 8px;
+    color: #393e56;
+}
+
+.recipieName{
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.recipieDetails{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    padding-top: 10px;
+}
+
+.recipieDetails > span{
+    margin-bottom: 10px;
+    padding: 0 20px ;
+}
+
+.recipieList{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.recipieList:nth-child(odd){
+    background-color: bisque;
+}
+
+.recipieList:nth-child(even){
+    background-color: rosybrown;
+}
